@@ -6,6 +6,13 @@ Me chamo Aline Arantes, moro em Santa Catarina e atuo como Analista Administrati
 Atualmente estou em transição para a área de tecnologia, cursando Análise e Desenvolvimento de Sistemas e direcionando meus estudos para Análise de Dados, Python e Business Intelligence.
 Meu objetivo é unir minha experiência em processos administrativos e RH com dados, transformando informações em decisões mais estratégicas para o negócio.
 
+<div>
+  <a href="https://instagram.com/linearantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/aarantes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:aline-arantes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aline-arantes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -66,13 +73,3 @@ Meu objetivo é unir minha experiência em processos administrativos e RH com da
   />
 
 </p>
-
-###
-
-<div>
-  <a href="https://instagram.com/linearantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/aarantes" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:aline-arantes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aline-arantes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
