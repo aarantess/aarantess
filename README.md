@@ -73,5 +73,3 @@ Meu objetivo é unir minha experiência em processos administrativos e RH com da
   />
 
 </p>
-
-![snake gif](https://github.com/aarantess/aarantess/blob/output/github-contribution-grid-snake.svg)
