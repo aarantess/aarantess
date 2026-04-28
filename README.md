@@ -67,7 +67,7 @@ Meu objetivo é unir minha experiência em processos administrativos e RH com da
 
 </p>
 
----
+###
 
 <div>
   <a href="https://instagram.com/linearantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
